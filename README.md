@@ -39,8 +39,7 @@ const jamil = {
     "apprendre en continu",
   ],
 
-  currentlyLearning : ["Linux (LPIC-1)", "AWS Cloud Practitioner"],
-  openTo            : "stage, alternance, premier poste de développeur",
+ 
 };
 ```
 
